@@ -1,3 +1,5 @@
 This is new file with some text.
 I'm js curious about the git and github.
 Just learning brohhhh
+I make some changes in main file directly
+
